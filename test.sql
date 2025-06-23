@@ -1,0 +1,1 @@
+select u.id, p.product_name, u.name from users u join products p on u.id = p.user_id where u.age > 25 and p.category = 'electronics' group by u.id order by p.price desc limit 10 
