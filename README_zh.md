@@ -212,8 +212,6 @@ go test -bench=.
 - [ ] 支持更多SQL语句类型（CREATE TABLE、ALTER TABLE等）
 - [ ] 添加更多格式化选项
 - [ ] 支持不同数据库方言
-- [ ] 添加语法高亮
-- [ ] 集成Vitess或TiDB解析器以提供更强大的解析能力
 
 ## 贡献
 

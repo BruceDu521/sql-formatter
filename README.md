@@ -212,8 +212,6 @@ go test -bench=.
 - [ ] Support more SQL statement types (CREATE TABLE, ALTER TABLE, etc.)
 - [ ] Add more formatting options
 - [ ] Support different database dialects
-- [ ] Add syntax highlighting
-- [ ] Integrate Vitess or TiDB parser for more powerful parsing capabilities
 
 ## Contributing
 
