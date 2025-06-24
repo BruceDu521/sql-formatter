@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"sqlformatter"
+	sqlformatter "github.com/BruceDu521/sql-formatter"
 )
 
 var (

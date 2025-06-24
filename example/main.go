@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"sqlformatter"
+	sqlformatter "github.com/BruceDu521/sql-formatter"
 )
 
 func main() {
